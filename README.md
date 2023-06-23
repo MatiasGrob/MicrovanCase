@@ -1,4 +1,4 @@
-# Customer Analytics Course - MBA Program at ESMT Berlin Business School - Capstone Case: Grosse Pointe Associates and the "Microvan" / 
+# Customer Analytics Course - MBA Program at ESMT Berlin Business School - Capstone Case: Grosse Pointe Associates and the "Microvan"
 
 This repository contains the case study on Grosse Pointe Associates' investigation into the potential market for "microvans." The case explores the project's objectives, methodology, and data analysis techniques. It serves as a capstone case that combines various multivariate techniques in a decision-oriented setting.
 
@@ -10,9 +10,9 @@ The case revolves around the U.S. auto industry's constant search for the next b
 
 The objectives of this case study are as follows:
 
-1. To provide experience in customer segmentation within a market.
-2. To determine which customer segment(s) would be suitable for targeting based on data analysis.
-3. To establish a connection between the identified segments and relevant demographic variables for effective targeting.
+- To provide experience in customer segmentation within a market.
+- To determine which customer segment(s) would be suitable for targeting based on data analysis.
+- To establish a connection between the identified segments and relevant demographic variables for effective targeting.
 
 ## Dataset
 
@@ -27,6 +27,7 @@ The case study employs various multivariate techniques, such as regression, fact
 The repository includes the following files:
 
 - Detailed description and analysis of the case [Case PDF](https://github.com/MatiasGrob/MicrovanCase/blob/main/CUSA_S7_S2_Microvan%20Capstone%20Case%20(1).pdf)
-- [Dataset CSV](https://github.com/MatiasGrob/MicrovanCase/blob/main/microvan.csv) used for the analysis.
+- [Dataset CSV](link-to-dataset) used for the analysis.
+- The file you are currently reading.
 
 Feel free to explore the files and use the information provided in your own analysis.
