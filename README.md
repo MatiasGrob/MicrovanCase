@@ -1,4 +1,4 @@
-# Capstone Case: Grosse Pointe Associates and the "Microvan" / Customer Analytics Course - MBA Program at ESMT Berlin Business School
+# Customer Analytics Course - MBA Program at ESMT Berlin Business School - Capstone Case: Grosse Pointe Associates and the "Microvan" / 
 
 This repository contains the case study on Grosse Pointe Associates' investigation into the potential market for "microvans." The case explores the project's objectives, methodology, and data analysis techniques. It serves as a capstone case that combines various multivariate techniques in a decision-oriented setting.
 
