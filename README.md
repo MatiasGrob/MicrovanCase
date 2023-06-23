@@ -18,6 +18,8 @@ The objectives of this case study are as follows:
 
 The survey data required for the analysis is provided as a separate file. It includes responses from GPA's in-house panel, which consists of a large cross-section of the general U.S. adult population. The dataset comprises 400 respondents, along with demographic and behavior-based information.
 
+You can access the dataset file [here](https://github.com/MatiasGrob/MicrovanCase/blob/main/microvan.csv). It is also available in the repository.
+
 ## Methodology
 
 The case study employs various multivariate techniques, such as regression, factor analysis, and cluster analysis, to analyze the data. The goal is to reduce the dataset while retaining crucial information and insights. The case study explores the process of data reduction and its implications for understanding and communicating the survey results effectively.
@@ -27,7 +29,7 @@ The case study employs various multivariate techniques, such as regression, fact
 The repository includes the following files:
 
 - Detailed description and analysis of the case [Case PDF](https://github.com/MatiasGrob/MicrovanCase/blob/main/CUSA_S7_S2_Microvan%20Capstone%20Case%20(1).pdf)
-- [Dataset CSV](link-to-dataset) used for the analysis.
-- The file you are currently reading.
+- [Dataset CSV](https://github.com/MatiasGrob/MicrovanCase/blob/main/microvan.csv) used for the analysis.
+- [PowerPoint Presentation](https://github.com/MatiasGrob/MicrovanCase/blob/main/CUSA%20Microvan%20Case.pptx) summarizing insights and findings.
 
-Feel free to explore the files and use the information provided in your own analysis.
+Feel free to explore the files and use the information provided in your analysis.
