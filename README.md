@@ -26,8 +26,7 @@ The case study employs various multivariate techniques, such as regression, fact
 
 The repository includes the following files:
 
-- Detailed description and analysis of the case.
-- Dataset used for the analysis.
-- The file you are currently reading.
+- Detailed description and analysis of the case [Case PDF](https://github.com/MatiasGrob/MicrovanCase/blob/main/CUSA_S7_S2_Microvan%20Capstone%20Case%20(1).pdf)
+- [Dataset CSV](https://github.com/MatiasGrob/MicrovanCase/blob/main/microvan.csv) used for the analysis.
 
 Feel free to explore the files and use the information provided in your own analysis.
